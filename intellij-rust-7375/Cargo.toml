@@ -1,0 +1,5 @@
+[package]
+name = "intellij-rust-7375"
+version = "0.2.0"
+authors = ["anatawa12 <anatawa12@icloud.com>"]
+edition = "2018"
